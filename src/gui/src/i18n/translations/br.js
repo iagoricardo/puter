@@ -159,7 +159,7 @@ const br = {
         forgot_pass_c2a: 'Esqueceu a senha?',
         from: 'De',
         general: 'Geral',
-        get_a_copy_of_on_puter: 'Obtenha uma cópia de \'%%\' em Puter.com!',
+        get_a_copy_of_on_puter: 'Obtenha uma cópia de \'%%\' no IAFlay!',
         get_copy_link: 'Obter Link de Cópia',
         hide_all_windows: 'Ocultar Todas as Janelas',
         home: 'Início',
@@ -257,7 +257,7 @@ const br = {
         pictures: 'Imagens',
         pixel_ratio: 'Proporção de Pixels', // In English: "Pixel Ratio"
         plural_suffix: 's',
-        powered_by_puter_js: 'Desenvolvido por {{link=docs}}Puter.js{{/link}}',
+        powered_by_puter_js: 'Desenvolvido com tecnologia de código aberto',
         preparing: 'Preparando...',
         preparing_for_upload: 'Preparando para upload...',
         print: 'Imprimir',
@@ -274,15 +274,15 @@ const br = {
         publish: 'Publicar',
         publish_as_website: 'Publicar como site',
         publish_as_serverless_worker: 'Publicar como Worker',
-        puter_description: 'Puter é uma nuvem pessoal que prioriza a privacidade para manter todos os seus arquivos, aplicativos e jogos em um lugar seguro, acessível de qualquer lugar a qualquer momento.',
+        puter_description: 'O IAFlay é uma nuvem pessoal que prioriza a privacidade para manter todos os seus arquivos, aplicativos e jogos em um lugar seguro, acessível de qualquer lugar a qualquer momento.',
         ram: 'RAM', // In English: "RAM"
         reading: 'Lendo %strong%',
         writing: 'Escrevendo %strong%',
         recent: 'Recente',
         recommended: 'Recomendado',
         recover_password: 'Recuperar Senha',
-        refer_friends_c2a: 'Ganhe 1 GB para cada amigo que criar e confirmar uma conta no Puter. Seu amigo também ganhará 1 GB!',
-        refer_friends_social_media_c2a: 'Ganhe 1 GB de armazenamento gratuito no Puter.com!',
+        refer_friends_c2a: 'Ganhe 1 GB para cada amigo que criar e confirmar uma conta no IAFlay. Seu amigo também ganhará 1 GB!',
+        refer_friends_social_media_c2a: 'Ganhe 1 GB de armazenamento gratuito no IAFlay!',
         refresh: 'Atualizar',
         release_address_confirmation: 'Tem certeza de que deseja liberar este endereço?',
         remove_from_taskbar: 'Remover da Barra de Tarefas',
@@ -293,7 +293,7 @@ const br = {
         resend_confirmation_code: 'Reenviar Código de Confirmação',
         reset_colors: 'Redefinir Cores',
         Resources: 'Recursos', // In English: "Resources"
-        restart_puter_confirm: 'Tem certeza de que deseja reiniciar o Puter?',
+        restart_puter_confirm: 'Tem certeza de que deseja reiniciar o IAFlay?',
         restore: 'Restaurar',
         save: 'Salvar',
         saturation: 'Saturação',
@@ -319,7 +319,7 @@ const br = {
         session_saved: 'Obrigado por criar uma conta. Esta sessão foi salva.',
         settings: 'Configurações',
         keyboard_shortcuts: 'Atalhos de Teclado', // In English: "Keyboard Shortcuts"
-        keyboard_shortcuts_intro: 'Conheça os atalhos mais úteis para navegar no Puter mais rápido.', // In English: "Learn the most useful shortcuts for navigating Puter faster."
+        keyboard_shortcuts_intro: 'Conheça os atalhos mais úteis para navegar no IAFlay mais rápido.', // In English: "Learn the most useful shortcuts for navigating Puter faster."
         keyboard_shortcuts_action: 'Ação', // In English: "Action"
         keyboard_shortcuts_shortcut: 'Atalho', // In English: "Shortcut"
         keyboard_shortcuts_general: 'Geral', // In English: "General"
@@ -348,7 +348,7 @@ const br = {
         show_all_windows: 'Mostrar Todas as Janelas',
         show_hidden: 'Mostrar ocultos',
         sign_in: 'Entrar', // In English: "Sign in"
-        sign_in_with_puter: 'Entrar com Puter',
+        sign_in_with_puter: 'Entrar com IAFlay',
         sign_up: 'Cadastrar-se',
         signing_in: 'Entrando...',
         size: 'Tamanho',
@@ -359,7 +359,7 @@ const br = {
         status: 'Status',
         Storage: 'Armazenamento', // In English: "Storage"
         storage_usage: 'Uso de Armazenamento',
-        storage_puter_used: 'usado pelo Puter',
+        storage_puter_used: 'usado pelo IAFlay',
         your_plan: 'Seu Plano', // In English: "Your Plan"
         taking_longer_than_usual: 'Levando um pouco mais de tempo do que o normal. Por favor, aguarde...',
         task_manager: 'Gerenciador de Tarefas',
@@ -375,7 +375,7 @@ const br = {
         'toolbar.save_account': 'Salvar Conta',
         'toolbar.search': 'Pesquisar',
         'toolbar.qrcode': 'Código QR',
-        tos_fineprint: 'Ao clicar em \'Criar Conta Gratuita\' você concorda com os {{link=terms}}Termos de Serviço{{/link}} e a {{link=privacy}}Política de Privacidade{{/link}} do Puter.',
+        tos_fineprint: 'Ao clicar em \'Criar Conta Gratuita\' você concorda com os {{link=terms}}Termos de Serviço{{/link}} e a {{link=privacy}}Política de Privacidade{{/link}} do IAFlay.',
         transparency: 'Transparência',
         trash: 'Lixeira',
         two_factor: 'Autenticação de Dois Fatores',
@@ -424,7 +424,7 @@ const br = {
         visibility: 'Visibilidade',
         yes: 'Sim',
         yes_release_it: 'Sim, Liberar',
-        you_have_been_referred_to_puter_by_a_friend: 'Você foi indicado ao Puter por um amigo!',
+        you_have_been_referred_to_puter_by_a_friend: 'Você foi indicado ao IAFlay por um amigo!',
         zip: 'Compactar',
         tar: 'Tar', // In English: "Tar"
         download_as_tar: 'Baixar como Tar', // In English: "Download as Tar"
@@ -578,7 +578,7 @@ const br = {
         window_title_public: 'Público',
         window_title_videos: 'Vídeos',
         window_title_pictures: 'Imagens',
-        window_title_puter: 'Puter',
+        window_title_puter: 'IAFlay',
         window_folder_empty: 'Esta pasta está vazia',
         manage_your_subdomains: 'Gerenciar seus subdomínios',
         open_containing_folder: 'Abrir local do arquivo',
@@ -612,7 +612,7 @@ const br = {
         api_token_description: 'Crie um token nomeado para scripts, CLIs e integrações', // In English: "Create a named token for scripts, CLIs, and integrations"
         create_api_token: 'Criar Token de API', // In English: "Create API Token"
         create_token: 'Criar token', // In English: "Create token"
-        create_token_message: 'Crie um token nomeado para usar a API do Puter a partir de scripts, CLIs, agentes e integrações. Ele pode fazer qualquer coisa que você faria pela API, mas não pode alterar sua senha ou e-mail, nem excluir sua conta.', // In English: "Create a named token to use the Puter API from scripts, CLIs, agents, and integrations. It can do anything you can through the API, but cannot change your password or email, or delete your account."
+        create_token_message: 'Crie um token nomeado para usar a API do IAFlay a partir de scripts, CLIs, agentes e integrações. Ele pode fazer qualquer coisa que você faria pela API, mas não pode alterar sua senha ou e-mail, nem excluir sua conta.', // In English: "Create a named token to use the Puter API from scripts, CLIs, agents, and integrations. It can do anything you can through the API, but cannot change your password or email, or delete your account."
         token_label: 'Rótulo', // In English: "Label"
         token_label_placeholder: 'ex.: Meu CLI, GitHub Actions', // In English: "e.g. My CLI, GitHub Actions"
         token_label_required: 'Informe um rótulo para este token.', // In English: "Please enter a label for this token."
@@ -626,7 +626,7 @@ const br = {
         token_manage_hint: 'Você pode revogar este token a qualquer momento em', // In English: "You can revoke this token any time under"
         verify_email_to_create_token: 'Verifique seu endereço de e-mail para criar um token de API.', // In English: "Verify your email address to create an API token."
         shared_api_token: 'Um token de API restrito', // In English: "A restricted API token"
-        shared_api_token_note: 'O app pode usar a API do Puter em seu nome, mas não pode alterar sua senha ou e-mail, nem excluir sua conta. Você pode revogá-lo a qualquer momento em Configurações → Segurança → Gerenciar sessões.', // In English: "The app can use the Puter API on your behalf, but cannot change your password or email, or delete your account. You can revoke it any time under Settings → Security → Manage sessions."
+        shared_api_token_note: 'O app pode usar a API do IAFlay em seu nome, mas não pode alterar sua senha ou e-mail, nem excluir sua conta. Você pode revogá-lo a qualquer momento em Configurações → Segurança → Gerenciar sessões.', // In English: "The app can use the Puter API on your behalf, but cannot change your password or email, or delete your account. You can revoke it any time under Settings → Security → Manage sessions."
         authorization_required: 'Autorização Necessária', // In English: "Authorization Required"
         external_site_auth_request: 'Um app está solicitando acesso à sua conta.', // In English: "An app is requesting access to your account."
         authme_security_warning: 'Seu token de autenticação será compartilhado com este app para concluir o login.', // In English: "Your authentication token will be shared with this app to complete sign-in."
