@@ -2167,6 +2167,14 @@ $(document).on('click', '.user-options-menu-btn', async function (e) {
         items: [
             ...items,
             //--------------------------------------------------
+            // Change Language
+            //--------------------------------------------------
+            {
+                html: i18n('change_language'),
+                id: 'change-language',
+                items: supportedLanguagesItems,
+            },
+            //--------------------------------------------------
             // Settings
             //--------------------------------------------------
             {
