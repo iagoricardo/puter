@@ -2047,7 +2047,7 @@ window.refresh_desktop_background = function () {
     }
     // default background
     else {
-        let wallpaper = (window.gui_env === 'prod') ? 'https://puter-assets.b-cdn.net/wallpaper.webp' : '/src/images/wallpaper.webp';
+        let wallpaper = (window.gui_env === 'prod') ? '/images/wallpaper.jpg' : '/src/images/wallpaper.jpg';
         window.set_desktop_background({
             url: wallpaper,
             fit: 'cover',
